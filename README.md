@@ -211,6 +211,6 @@ https://localhost:7221/swagger/index.html
 | Nome Completo | RM |
 | :-- | :-- |
 | Caio Eduardo Nascimento Martins | RM554025 |
-| Maria Oliveira | RM654321 |
-| Pedro Santos | RM112233 |
-| Ana Costa | RM445566 |
+| Julia Mariano Barsotti Ferreira | RM552713 |
+| Leonardo Gaspar Saheb | RM553383 |
+| Thiago Melo Carrillo | RM553565 |
