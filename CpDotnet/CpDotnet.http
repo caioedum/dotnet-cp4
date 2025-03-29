@@ -1,0 +1,6 @@
+@CpDotnet_HostAddress = http://localhost:5148
+
+GET {{CpDotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
