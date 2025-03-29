@@ -177,8 +177,8 @@ Aqui está um exemplo completo para criar um novo brinquedo:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/dotnet-cp4.git
+cd dotnet-cp4
 ```
 
 2. Configure a *connection string* no arquivo `appsettings.json`:
@@ -186,7 +186,7 @@ cd seu-repositorio
 ```json
 {
     "ConnectionStrings": {
-        "OracleConnection": "<sua_connection_string>"
+        "OracleConnection": "Data Source=oracle.fiap.com.br:1521/ORCL;User Id=rm554025;Password=010204;"
     }
 }
 ```
@@ -200,7 +200,7 @@ dotnet run
 4. Acesse o Swagger UI para testar os endpoints:
 
 ```
-https://localhost:<porta>/swagger/index.html
+https://localhost:7221/swagger/index.html
 ```
 
 
@@ -210,7 +210,7 @@ https://localhost:<porta>/swagger/index.html
 
 | Nome Completo | RM |
 | :-- | :-- |
-| João da Silva | RM123456 |
+| Caio Eduardo Nascimento Martins | RM554025 |
 | Maria Oliveira | RM654321 |
 | Pedro Santos | RM112233 |
 | Ana Costa | RM445566 |
