@@ -214,3 +214,7 @@ https://localhost:7221/swagger/index.html
 | Julia Mariano Barsotti Ferreira | RM552713 |
 | Leonardo Gaspar Saheb | RM553383 |
 | Thiago Melo Carrillo | RM553565 |
+
+## **Licença**
+
+- Este projeto é de uso acadêmico - FIAP.
